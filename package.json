@@ -5,14 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-},
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^4.1.0",
     "express": "^5.2.1",
-    "sqlite": "^5.1.1",
-    "sqlite3": "^6.0.1"
+    "sqlite": "^5.1.1"
   }
 }
